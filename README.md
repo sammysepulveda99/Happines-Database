@@ -4,7 +4,7 @@
 
 **EXECUTIVE SUMMARY**
 
-This ETL project create a database that permits researchers to analyze the social, economic and environmental conditions that correlate with the World Happiness Index, thereby helping them link critical factors that support quality of life and welfare. 
+This ETL project create a database that permits researchers to analyze the social, economic and environmental conditions that correlate with the World Happiness Index, thereby helping them link critical factors that support quality of life and the welfare. 
 
 **REPOSITORY NAVIGATION**
 
